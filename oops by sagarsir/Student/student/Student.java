@@ -59,7 +59,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Students{" + "rollNumber=" + rollNumber + ", name=" + name + ", course=" + course + ", marks1=" + marks1 + ", marks2=" + marks2 + ", marks3=" + marks3 + '}';
+        return "Student{" + "rollNumber=" + rollNumber + ", name=" + name + ", course=" + course + ", marks1=" + marks1 + ", marks2=" + marks2 + ", marks3=" + marks3 + '}';
     }
 
     public int calculateTotal() {
