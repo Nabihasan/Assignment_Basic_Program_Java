@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Checked Exception"/>
+	<classpathentry kind="lib" path="D:/all setup/all setup/mysql-connector-java-8.0.15.jar/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="output" path="Checked Exception"/>
+</classpath>
